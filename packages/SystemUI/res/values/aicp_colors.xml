@@ -121,4 +121,8 @@
     <!-- Separate QS text label tint from icon tint -->
     <color name="qs_tile_label_tint_unavailable">@color/qs_tile_tint_unavailable</color>
 
+    <!-- Gesture Anywhere specific colors -->
+    <color name="gesture_overlay_background_fill_color">#80000000</color>
+    <color name="gesture_color">@android:color/holo_blue_light</color>
+
 </resources>
